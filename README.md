@@ -2,14 +2,14 @@
 # Surfs Up Weather Analysis
 
 ## Overview
-An Entrepreneurial colleague was considering opening up a surf shop in Hawaii that would double as an ice cream store, serving cold treats to those shopping for beach goods. The entrepreneur’s hypothesis was that offering ice cream would give him a competitive advantage over other surf shops that simply offered typical surf and beach paraphernalia. Before approaching investors or committing to the project he wanted to get more information about the weather in the area to better inform the predictability of the ice cream strategy. He believed that consistently warmer weather would be ideal to attract surfing ice cream eaters. Specifically, he wanted temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business would be sustainable year-round.
+An Entrepreneurial colleague was considering opening up a surf shop in Hawaii that would double as an ice cream store, serving cold treats to those shopping for beach goods. The entrepreneur’s hypothesis was that offering ice cream would give him a competitive advantage over other surf shops that simply offered typical surf and beach items. Before approaching investors or committing to the project he wanted to get more information about the weather in the area to better inform the predictability of the ice cream strategy. He believed that consistently warmer weather would be ideal to attract surfing ice cream eaters. Specifically, he wanted temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business would be sustainable year-round.
 
 
 
 ### Resources
-Python3
-SQLAlchemy ORM
-SQLite database
+  * Python3
+  * SQLAlchemy ORM
+  * SQLite database
 
 
 
@@ -33,9 +33,13 @@ Figure 2. December Statistical Summary
 
 
 
-Figure 3. June Temperatures                              Figure 4. December Temperatures
-<img src=”Resources/june_temp_hist.png”>               <img src=”Resources/dec_temp_hist.png”>
+Figure 3. June Temperatures                              
 
+<img src="Resources/june_temp_hist.png">               
+
+Figure 4. December Temperatures
+
+<img src="Resources/dec_temp_hist.png">
 
 
 ## Summary: 
